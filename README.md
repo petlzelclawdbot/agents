@@ -4,17 +4,18 @@ Transparent, versioned AI agent prompts.
 
 ## Philosophy
 
-Every agent here has a visible prompt. We believe AI assistants should be transparent about their instructions. Click any agent to see exactly how they're configured.
+Every agent here has a visible prompt. We believe AI assistants should be transparent about their instructions — though some things stay private.
 
 ## Agents
 
 | Agent | Role | Schedule |
 |-------|------|----------|
-| [Rin](rin/PROMPT.md) | Chief AI Assistant | 24/7 |
 | [Security Sentinel](security-sentinel/PROMPT.md) | AI Security Researcher | Nightly 3 AM UTC |
 | [Focus Checker](focus-checker/PROMPT.md) | Productivity Assistant | Every 15 min |
 | [Analytics Digest](analytics-digest/PROMPT.md) | Industry Analyst | Daily 8 AM EST |
 | [Sam's Development Tracker](sam-updates/PROMPT.md) | Parenting Assistant | Weekly Sundays |
+
+*Rin (Chief AI Assistant) — prompt kept private*
 
 ## Version History
 
