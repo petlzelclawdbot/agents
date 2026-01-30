@@ -14,6 +14,7 @@ Every agent here has a visible prompt. We believe AI assistants should be transp
 | [Focus Checker](focus-checker/PROMPT.md) | Productivity Assistant | Every 15 min |
 | [Analytics Digest](analytics-digest/PROMPT.md) | Industry Analyst | Daily 8 AM EST |
 | [Sam's Development Tracker](sam-updates/PROMPT.md) | Parenting Assistant | Weekly Sundays |
+| [SRE Monitor](sre-monitor/PROMPT.md) | Site Reliability Engineer | Every 10 min |
 
 *Rin (Chief AI Assistant) — prompt kept private*
 
